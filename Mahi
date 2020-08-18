@@ -57,8 +57,6 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
  ___  ____                              __   
 
-<div><span style="color:#ff0000;">A</span><span style="color:#ff7f00;">q</span><span style="color:#ffff00;">s</span><span style="color:#80ff00;">a</span><span style="color:#00ff00;"> </span><span style="color:#00ffff;">P</span><span style="color:#0000ff;">a</span><span style="color:#8b00ff;">t</span><span style="color:#c50080;">h</span><span style="color:#ff0000;">a</span><span style="color:#ff7f00;">n</span><span style="color:#ffff00;">i</span></div>
- _   _
 | \ | |
 |  \| | ___   ___  _ __
 | . ` |/ _ \ / _ \| '__|
@@ -78,7 +76,7 @@ logo = """ -----------------------------•◈•
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mChecking Id\x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -95,7 +93,7 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Aqsa Noor Pathani
 \033[1;96mFacebook \033[1;93m: \033[1;92m Mahi Khan
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Komal Rani
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Pathani 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/MRMUGHAL
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
